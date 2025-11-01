@@ -7,6 +7,8 @@ import { ExpenseForm } from '@/components/ExpenseForm'
 import { AICoachCard } from '@/components/AICoachCard'
 import { Button } from '@/components/ui/button'
 
+export const dynamic = 'force-dynamic'
+
 export default function DashboardPage() {
   const router = useRouter()
   const [budgets, setBudgets] = useState<any[]>([])
