@@ -45,7 +45,7 @@ export function PointsDisplay() {
         <div className="h-2 bg-white/30 rounded-full overflow-hidden">
           <div 
             className="h-full bg-white rounded-full transition-all"
-            style={{ width: \`\${(totalPoints % 1000) / 10}%\` }}
+            style={{ width: `${(totalPoints % 1000) / 10}%` }}
           />
         </div>
       </div>
