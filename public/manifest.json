@@ -1,0 +1,21 @@
+{
+  "name": "버짓 - AI 예산 코치",
+  "short_name": "버짓",
+  "description": "예산이 인생을 바꾼다",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#00C2A8",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
